@@ -7,7 +7,7 @@
 - 基于`markdown`的纯静态网站，又可以在markdown内使用`vue语法`进行自定义优化。
 
 ## 👁‍🗨博客展示
-- [GitHub(国外地址)](https://china-fanxin.github.io/vuepress-blog/)
+- [GitHub(国外地址)](https://blog.fan-xin.cn)
 - [Gitee(国内地址)](https://china-fanxin.gitee.io/vuepress-blog/)
 
 ## 👓仓库内容

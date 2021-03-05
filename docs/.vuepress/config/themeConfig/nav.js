@@ -8,8 +8,8 @@ module.exports = [
     link: '/buildWebsite/',
   },
   {
-    text: 'Java修炼手册',
-    link: '/java/',
+    text: 'JavaWeb',
+    link: '/javaweb/',
   },
   {
     text: 'Jeecg-boot学习',
