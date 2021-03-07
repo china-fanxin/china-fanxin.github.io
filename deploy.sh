@@ -23,7 +23,7 @@ git push
 # git config user.email 'fanxin0913@foxmail.com'
 # git add -A
 # git commit -m "deploy:$(date +"%Y年%m月%d日 %T %Z")"
-# git push -f git@github.com:china-fanxin/vuepress-blog.git master:gh-pages
+# git push -f git@github.com:china-fanxin/china-fanxin.git master:gh-pages
 
 # cd - # 退回开始所在目录
 

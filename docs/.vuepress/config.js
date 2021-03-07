@@ -8,7 +8,7 @@ module.exports = {
 
   title: "Fanxin's blog",
   description: 'Java开发技术博客，项目实战、知识总结、生活随笔。',
-  base: '/vuepress-blog/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
     externalLinks:

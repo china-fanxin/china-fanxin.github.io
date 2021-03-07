@@ -18,7 +18,7 @@ module.exports = [
   //     },
   //     bottomInfo: {
   //       btnText: '关于',
-  //       linkTo: 'https://china-fanxin.gitee.io/vuepress-blog/about/'
+  //       linkTo: 'https://china-fanxin.gitee.io/about/'
   //     },
   //     closeOnce: true
   //   }
@@ -77,7 +77,7 @@ module.exports = [
   }],
   'vuepress-plugin-baidu-autopush', // 百度自动推送
   ['sitemap', {
-    hostname: "https://china-fanxin.gitee.io/vuepress-blog/",
+    hostname: "https://china-fanxin.gitee.io",
     // 排除无实际内容的页面
     exclude: ["/404.html"]
   }
@@ -106,7 +106,7 @@ module.exports = [
         },
         {
           title: '通过百度搜索本站的',
-          frontUrl: 'https://www.baidu.com/s?wd=site%3Achina-fanxin.gitee.io/vuepress-blog/%20',
+          frontUrl: 'https://www.baidu.com/s?wd=site%3Achina-fanxin.gitee.io',
         },
       ],
     },
