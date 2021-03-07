@@ -6,18 +6,27 @@ module.exports = [
   {
     text: '小白建站',
     link: '/buildWebsite/',
+    items: [
+      { text: '建站选择',link: '/pages/fe46ec/'},
+      { text: '博客建站',link: '/pages/6693a3/'},
+      { text: '博客写作',link: '/pages/dbc68b/'},
+    ],
   },
   {
     text: 'JavaWeb',
     link: '/javaweb/',
+    items: [
+      { text: 'Java重难点知识',link: '/pages/65bdc4/'},
+      { text: '常用框架',link: '/pages/65bdc4/'},
+    ],
   },
   {
     text: 'Jeecg-boot学习',
     link: '/jeecg-boot/',
   },
   {
-    text: '博客管理系统',
-    link: '/javablog/',
+    text: 'Linux、Shell',
+    link: '/linuxandshell/',
   },
   {
     text: '优秀开源',
@@ -30,6 +39,10 @@ module.exports = [
   {
     text: '生活杂记',
     link: '/lifelog/',
+    items: [
+      { text: '生活感悟',link: '/pages/e79e98/'},
+      { text: '好文摘录',link: '/pages/9c2189/'},
+    ],
   },
   {
     text: '小众技术',
