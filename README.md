@@ -1,5 +1,5 @@
 ## 👁‍🗨博客展示
-- [GitHub(国外地址)](https://china-fanxin.github.io)
+- [GitHub(国外地址)](https://blog.fan-xin.cn/)
 - [Gitee(国内地址)](https://china-fanxin.gitee.io)
 
 ## 📚博客简介
