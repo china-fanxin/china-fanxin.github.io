@@ -17,7 +17,13 @@ module.exports = [
     link: '/javaweb/',
     items: [
       { text: 'Java重难点知识',link: '/pages/65bdc4/'},
-      { text: '常用框架',link: '/pages/65bdc4/'},
+      { 
+        text: '常用框架',
+        items:[
+          { text: 'Spring-boot',link: '/pages/65bdc4/'},
+          { text: 'Hadoop',link: '/pages/2587e8/'},
+        ]
+      },
     ],
   },
   {
@@ -27,6 +33,10 @@ module.exports = [
   {
     text: 'Linux、Shell',
     link: '/linuxandshell/',
+    items: [
+      { text: 'Linux学习巩固',link: ''},
+      { text: 'Shell学习巩固',link: ''},
+    ]
   },
   {
     text: '优秀开源',
