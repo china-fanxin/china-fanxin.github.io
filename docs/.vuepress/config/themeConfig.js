@@ -6,7 +6,7 @@ const htmlModules = require('./themeConfig/htmlModules.js');
 module.exports = {
   nav,
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-  logo: '/img/logo.jpg', // 导航栏logo
+  logo: '/img/allen-favicon.ico', // 导航栏logo
   repo: 'https://github.com/china-fanxin/china-fanxin', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
@@ -58,22 +58,12 @@ module.exports = {
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
-    iconfontCssFile: '//at.alicdn.com/t/font_2364001_hb4ydl8ttsq.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
+    iconfontCssFile: '//at.alicdn.com/t/font_2364001_7ndwgh7rx3e.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
     icons: [
       {
-        iconClass: 'icon-qq',
-        title: '联系QQ',
-        link: 'tencent://message/?uin=380411586&Site=&Menu=yesUrl',
-      },
-      {
-        iconClass: 'icon-mail',
-        title: '发邮件',
-        link: 'mailto:fanxin0913@foxmail.com',
-      },
-      {
-        iconClass: 'icon-gitee',
-        title: 'Gitee',
-        link: 'https://gitee.com/china-fanxin',
+        iconClass: 'icon-csdn',
+        title: 'CSDN',
+        link: 'https://blog.csdn.net/CSDNAllenFX',
       },
       {
         iconClass: 'icon-git',
@@ -81,9 +71,14 @@ module.exports = {
         link: 'https://github.com/china-fanxin',
       },
       {
-        iconClass: 'icon-youpaiyun-co123',
-        title: '又拍云',
-        link: 'https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral',
+        iconClass: 'icon-gitee',
+        title: 'Gitee',
+        link: 'https://gitee.com/china-fanxin',
+      },
+      {
+        iconClass: 'icon-tubiaozhizuo-',
+        title: '微博',
+        link: 'https://weibo.com/p/1005055534232472/home',
       },
     ],
   },
