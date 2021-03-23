@@ -34,8 +34,8 @@ module.exports = [
     text: 'Linux、Shell',
     link: '/linuxandshell/',
     items: [
-      { text: 'Linux学习巩固',link: ''},
-      { text: 'Shell学习巩固',link: ''},
+      { text: 'Linux学习巩固',link: '/pages/2899d1/'},
+      { text: 'Shell学习巩固',link: '/pages/c127de/'},
     ]
   },
   {
