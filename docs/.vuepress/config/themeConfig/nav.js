@@ -13,7 +13,7 @@ module.exports = [
     ],
   },
   {
-    text: 'JavaWeb',
+    text: 'Java',
     link: '/javaweb/',
     items: [
       { text: 'Java重难点知识',link: '/pages/65bdc4/'},
@@ -21,14 +21,16 @@ module.exports = [
         text: '常用框架',
         items:[
           { text: 'Spring-boot',link: '/pages/65bdc4/'},
-          { text: 'Hadoop',link: '/pages/2587e8/'},
         ]
       },
     ],
   },
   {
-    text: 'Jeecg-boot学习',
-    link: '/jeecg-boot/',
+    text: '大数据学习',
+    link: '/bigdata/',
+    items: [
+      { text: 'Hadoop',link: '/pages/2587e8/'},
+    ]
   },
   {
     text: 'Linux、Shell',
@@ -39,19 +41,26 @@ module.exports = [
     ]
   },
   {
-    text: '优秀开源',
-    link: '/items/',
+    text: '爬虫技术',
+    link: '/spider/',
   },
   {
     text: '自媒体',
     link: '/media/',
+    items: [
+      { text: '博客',link: '/pages/f01e08/'},
+      { text: '公众号',link: '/pages/f4fe76/'},
+      { text: '视频UP主',link: '/pages/aa4305/'},
+    ],
   },
   {
-    text: '生活杂记',
+    text: '杂物间',
     link: '/lifelog/',
     items: [
+      { text: '实用工具',link: '/pages/8c71af/'},
       { text: '生活感悟',link: '/pages/e79e98/'},
       { text: '好文摘录',link: '/pages/9c2189/'},
+      { text: '优秀开源',link: '/pages/eea94d/'},
     ],
   },
   {
