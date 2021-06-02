@@ -14,7 +14,7 @@ module.exports = [
   },
   {
     text: 'Java',
-    link: '/javaweb/',
+    link: '/java/',
     items: [
       { text: 'Java重难点知识',link: '/pages/65bdc4/'},
       { 
@@ -41,8 +41,11 @@ module.exports = [
     ]
   },
   {
-    text: '爬虫技术',
-    link: '/spider/',
+    text: 'Python',
+    link: '/python/',
+    items: [
+      { text: '爬虫技术',link: '/pages/dbc40d/'},
+    ],
   },
   {
     text: '自媒体',

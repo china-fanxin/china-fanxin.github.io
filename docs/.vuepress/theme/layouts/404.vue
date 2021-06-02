@@ -1,9 +1,10 @@
 <template>
   <div class="theme-container">
     <div class="theme-vdoing-content">
-      <span>404</span>
+      <!-- <span>404</span>
       <blockquote>{{ getMsg() }}</blockquote>
-      <router-link to="/">返回首页</router-link>
+      <router-link to="/">返回首页</router-link> -->
+      <script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homePageUrl="https://china-fanxin.gitee.io" homePageName="返回首页"></script>
     </div>
   </div>
 </template>
