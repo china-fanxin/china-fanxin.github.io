@@ -1,0 +1,3 @@
+Sitemap: https://china-fanxin.gitee.io/sitemap.xml
+
+User-agent: *

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{530:function(t,e,n){"use strict";n.r(e);var s=n(10),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("思来想去，大学时期似乎都在看小说和打游戏中度过了")])])}),[],!1,null,null,null);e.default=l.exports}}]);
